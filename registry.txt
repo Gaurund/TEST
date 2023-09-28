@@ -1,0 +1,1 @@
+Tisi pet cat [lick, kiss];Abra pack horse [jump, run, die];Spiky pet dog [voice, fetch, lay, sit, run];
